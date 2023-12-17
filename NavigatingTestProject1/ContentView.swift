@@ -51,7 +51,7 @@ struct DetailsLocalisationView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-            Text("Hello, world!")
+            Text("Project Updated!")
         }
         
         .overlay(
